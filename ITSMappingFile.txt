@@ -1,0 +1,321 @@
+SampleID	Treatment	Site	TreatmentSite
+S-1-0-C	Control	SGS	SGS-Control
+S-4-0-C	Control	SGS	SGS-Control
+S-8-0-C	Control	SGS	SGS-Control
+S-10-0-C	Control	SGS	SGS-Control
+S-13-0-C	Control	SGS	SGS-Control
+S-16-0-C	Control	SGS	SGS-Control
+S-20-0-C	Control	SGS	SGS-Control
+S-23-0-C	Control	SGS	SGS-Control
+S-27-0-C	Control	SGS	SGS-Control
+S-30-0-C	Control	SGS	SGS-Control
+C-3-0-C	Control	CHY	CHY-Control
+C-5-0-C	Control	CHY	CHY-Control
+C-8-0-C	Control	CHY	CHY-Control
+C-12-0-C	Control	CHY	CHY-Control
+C-14-0-C	Control	CHY	CHY-Control
+C-18-0-C	Control	CHY	CHY-Control
+C-21-0-C	Control	CHY	CHY-Control
+C-23-0-C	Control	CHY	CHY-Control
+C-26-0-C	Control	CHY	CHY-Control
+C-29-0-C	Control	CHY	CHY-Control
+H-3-0-C	Control	HYS	HYS-Control
+H-6-0-C	Control	HYS	HYS-Control
+H-7-0-C	Control	HYS	HYS-Control
+H-10-0-C	Control	HYS	HYS-Control
+H-15-0-C	Control	HYS	HYS-Control
+H-17-0-C	Control	HYS	HYS-Control
+H-20-0-C	Control	HYS	HYS-Control
+H-22-0-C	Control	HYS	HYS-Control
+H-26-0-C	Control	HYS	HYS-Control
+H-29-0-C	Control	HYS	HYS-Control
+K-3-0-C	Control	KNZ	KNZ-Control
+K-4-0-C	Control	KNZ	KNZ-Control
+K-9-0-C	Control	KNZ	KNZ-Control
+K-12-0-C	Control	KNZ	KNZ-Control
+K-14-0-C	Control	KNZ	KNZ-Control
+K-16-0-C	Control	KNZ	KNZ-Control
+K-19-0-C	Control	KNZ	KNZ-Control
+K-23-0-C	Control	KNZ	KNZ-Control
+K-27-0-C	Control	KNZ	KNZ-Control
+K-30-0-C	Control	KNZ	KNZ-Control
+S-3-0-C	Control - Legacy Effects	SGS	SGS-Legacy
+S-5-0-C	Control - Legacy Effects	SGS	SGS-Legacy
+S-9-0-C	Control - Legacy Effects	SGS	SGS-Legacy
+S-11-0-C	Control - Legacy Effects	SGS	SGS-Legacy
+S-15-0-C	Control - Legacy Effects	SGS	SGS-Legacy
+S-17-0-C	Control - Legacy Effects	SGS	SGS-Legacy
+S-19-0-C	Control - Legacy Effects	SGS	SGS-Legacy
+S-22-0-C	Control - Legacy Effects	SGS	SGS-Legacy
+S-26-0-C	Control - Legacy Effects	SGS	SGS-Legacy
+S-28-0-C	Control - Legacy Effects	SGS	SGS-Legacy
+C-1-0-C	Control - Legacy Effects	CHY	CHY-Legacy
+C-6-0-C	Control - Legacy Effects	CHY	CHY-Legacy
+C-7-0-C	Control - Legacy Effects	CHY	CHY-Legacy
+C-11-0-C	Control - Legacy Effects	CHY	CHY-Legacy
+C-13-0-C	Control - Legacy Effects	CHY	CHY-Legacy
+C-16-0-C	Control - Legacy Effects	CHY	CHY-Legacy
+C-19-0-C	Control - Legacy Effects	CHY	CHY-Legacy
+C-24-0-C	Control - Legacy Effects	CHY	CHY-Legacy
+C-27-0-C	Control - Legacy Effects	CHY	CHY-Legacy
+C-28-0-C	Control - Legacy Effects	CHY	CHY-Legacy
+H-2-0-C	Control - Legacy Effects	HYS	HYS-Legacy
+H-4-0-C	Control - Legacy Effects	HYS	HYS-Legacy
+H-9-0-C	Control - Legacy Effects	HYS	HYS-Legacy
+H-11-0-C	Control - Legacy Effects	HYS	HYS-Legacy
+H-14-0-C	Control - Legacy Effects	HYS	HYS-Legacy
+H-16-0-C	Control - Legacy Effects	HYS	HYS-Legacy
+H-19-0-C	Control - Legacy Effects	HYS	HYS-Legacy
+H-24-0-C	Control - Legacy Effects	HYS	HYS-Legacy
+H-25-0-C	Control - Legacy Effects	HYS	HYS-Legacy
+H-30-0-C	Control - Legacy Effects	HYS	HYS-Legacy
+K-1-0-C	Control - Legacy Effects	KNZ	KNZ-Legacy
+K-5-0-C	Control - Legacy Effects	KNZ	KNZ-Legacy
+K-8-0-C	Control - Legacy Effects	KNZ	KNZ-Legacy
+K-11-0-C	Control - Legacy Effects	KNZ	KNZ-Legacy
+K-15-0-C	Control - Legacy Effects	KNZ	KNZ-Legacy
+K-18-0-C	Control - Legacy Effects	KNZ	KNZ-Legacy
+K-21-0-C	Control - Legacy Effects	KNZ	KNZ-Legacy
+K-22-0-C	Control - Legacy Effects	KNZ	KNZ-Legacy
+K-25-0-C	Control - Legacy Effects	KNZ	KNZ-Legacy
+K-29-0-C	Control - Legacy Effects	KNZ	KNZ-Legacy
+S-1-1-D	Drought - Recovery 1	SGS	SGS-DroughtR1
+S-4-1-D	Drought - Recovery 1	SGS	SGS-DroughtR1
+S-8-1-D	Drought - Recovery 1	SGS	SGS-DroughtR1
+S-10-1-D	Drought - Recovery 1	SGS	SGS-DroughtR1
+S-13-1-D	Drought - Recovery 1	SGS	SGS-DroughtR1
+S-16-1-D	Drought - Recovery 1	SGS	SGS-DroughtR1
+S-20-1-D	Drought - Recovery 1	SGS	SGS-DroughtR1
+S-23-1-D	Drought - Recovery 1	SGS	SGS-DroughtR1
+S-27-1-D	Drought - Recovery 1	SGS	SGS-DroughtR1
+S-30-1-D	Drought - Recovery 1	SGS	SGS-DroughtR1
+C-3-1-D	Drought - Recovery 1	CHY	CHY-DroughtR1
+C-5-1-D	Drought - Recovery 1	CHY	CHY-DroughtR1
+C-8-1-D	Drought - Recovery 1	CHY	CHY-DroughtR1
+C-12-1-D	Drought - Recovery 1	CHY	CHY-DroughtR1
+C-14-1-D	Drought - Recovery 1	CHY	CHY-DroughtR1
+C-18-1-D	Drought - Recovery 1	CHY	CHY-DroughtR1
+C-21-1-D	Drought - Recovery 1	CHY	CHY-DroughtR1
+C-23-1-D	Drought - Recovery 1	CHY	CHY-DroughtR1
+C-26-1-D	Drought - Recovery 1	CHY	CHY-DroughtR1
+C-29-1-D	Drought - Recovery 1	CHY	CHY-DroughtR1
+H-3-1-D	Drought - Recovery 1	HYS	HYS-DroughtR1
+H-6-1-D	Drought - Recovery 1	HYS	HYS-DroughtR1
+H-7-1-D	Drought - Recovery 1	HYS	HYS-DroughtR1
+H-10-1-D	Drought - Recovery 1	HYS	HYS-DroughtR1
+H-15-1-D	Drought - Recovery 1	HYS	HYS-DroughtR1
+H-17-1-D	Drought - Recovery 1	HYS	HYS-DroughtR1
+H-20-1-D	Drought - Recovery 1	HYS	HYS-DroughtR1
+H-22-1-D	Drought - Recovery 1	HYS	HYS-DroughtR1
+H-26-1-D	Drought - Recovery 1	HYS	HYS-DroughtR1
+H-29-1-D	Drought - Recovery 1	HYS	HYS-DroughtR1
+K-3-1-D	Drought - Recovery 1	KNZ	KNZ-DroughtR1
+K-4-1-D	Drought - Recovery 1	KNZ	KNZ-DroughtR1
+K-9-1-D	Drought - Recovery 1	KNZ	KNZ-DroughtR1
+K-12-1-D	Drought - Recovery 1	KNZ	KNZ-DroughtR1
+K-14-1-D	Drought - Recovery 1	KNZ	KNZ-DroughtR1
+K-16-1-D	Drought - Recovery 1	KNZ	KNZ-DroughtR1
+K-19-1-D	Drought - Recovery 1	KNZ	KNZ-DroughtR1
+K-23-1-D	Drought - Recovery 1	KNZ	KNZ-DroughtR1
+K-27-1-D	Drought - Recovery 1	KNZ	KNZ-DroughtR1
+K-30-1-D	Drought - Recovery 1	KNZ	KNZ-DroughtR1
+S-1-2-D	Drought - Recovery 2	SGS	SGS-DroughtR2
+S-4-2-D	Drought - Recovery 2	SGS	SGS-DroughtR2
+S-8-2-D	Drought - Recovery 2	SGS	SGS-DroughtR2
+S-10-2-D	Drought - Recovery 2	SGS	SGS-DroughtR2
+S-13-2-D	Drought - Recovery 2	SGS	SGS-DroughtR2
+S-16-2-D	Drought - Recovery 2	SGS	SGS-DroughtR2
+S-20-2-D	Drought - Recovery 2	SGS	SGS-DroughtR2
+S-23-2-D	Drought - Recovery 2	SGS	SGS-DroughtR2
+S-27-2-D	Drought - Recovery 2	SGS	SGS-DroughtR2
+S-30-2-D	Drought - Recovery 2	SGS	SGS-DroughtR2
+C-3-2-D	Drought - Recovery 2	CHY	CHY-DroughtR2
+C-5-2-D	Drought - Recovery 2	CHY	CHY-DroughtR2
+C-8-2-D	Drought - Recovery 2	CHY	CHY-DroughtR2
+C-12-2-D	Drought - Recovery 2	CHY	CHY-DroughtR2
+C-14-2-D	Drought - Recovery 2	CHY	CHY-DroughtR2
+C-18-2-D	Drought - Recovery 2	CHY	CHY-DroughtR2
+C-21-2-D	Drought - Recovery 2	CHY	CHY-DroughtR2
+C-23-2-D	Drought - Recovery 2	CHY	CHY-DroughtR2
+C-26-2-D	Drought - Recovery 2	CHY	CHY-DroughtR2
+C-29-2-D	Drought - Recovery 2	CHY	CHY-DroughtR2
+H-3-2-D	Drought - Recovery 2	HYS	HYS-DroughtR2
+H-6-2-D	Drought - Recovery 2	HYS	HYS-DroughtR2
+H-7-2-D	Drought - Recovery 2	HYS	HYS-DroughtR2
+H-10-2-D	Drought - Recovery 2	HYS	HYS-DroughtR2
+H-15-2-D	Drought - Recovery 2	HYS	HYS-DroughtR2
+H-17-2-D	Drought - Recovery 2	HYS	HYS-DroughtR2
+H-20-2-D	Drought - Recovery 2	HYS	HYS-DroughtR2
+H-22-2-D	Drought - Recovery 2	HYS	HYS-DroughtR2
+H-26-2-D	Drought - Recovery 2	HYS	HYS-DroughtR2
+H-29-2-D	Drought - Recovery 2	HYS	HYS-DroughtR2
+K-3-2-D	Drought - Recovery 2	KNZ	KNZ-DroughtR2
+K-4-2-D	Drought - Recovery 2	KNZ	KNZ-DroughtR2
+K-9-2-D	Drought - Recovery 2	KNZ	KNZ-DroughtR2
+K-12-2-D	Drought - Recovery 2	KNZ	KNZ-DroughtR2
+K-14-2-D	Drought - Recovery 2	KNZ	KNZ-DroughtR2
+K-16-2-D	Drought - Recovery 2	KNZ	KNZ-DroughtR2
+K-19-2-D	Drought - Recovery 2	KNZ	KNZ-DroughtR2
+K-23-2-D	Drought - Recovery 2	KNZ	KNZ-DroughtR2
+K-27-2-D	Drought - Recovery 2	KNZ	KNZ-DroughtR2
+K-30-2-D	Drought - Recovery 2	KNZ	KNZ-DroughtR2
+S-1-0-D	Drought - Resistance	SGS	SGS-Drought
+S-4-0-D	Drought - Resistance	SGS	SGS-Drought
+S-8-0-D	Drought - Resistance	SGS	SGS-Drought
+S-10-0-D	Drought - Resistance	SGS	SGS-Drought
+S-13-0-D	Drought - Resistance	SGS	SGS-Drought
+S-16-0-D	Drought - Resistance	SGS	SGS-Drought
+S-20-0-D	Drought - Resistance	SGS	SGS-Drought
+S-23-0-D	Drought - Resistance	SGS	SGS-Drought
+S-27-0-D	Drought - Resistance	SGS	SGS-Drought
+S-30-0-D	Drought - Resistance	SGS	SGS-Drought
+C-3-0-D	Drought - Resistance	CHY	CHY-Drought
+C-5-0-D	Drought - Resistance	CHY	CHY-Drought
+C-8-0-D	Drought - Resistance	CHY	CHY-Drought
+C-12-0-D	Drought - Resistance	CHY	CHY-Drought
+C-14-0-D	Drought - Resistance	CHY	CHY-Drought
+C-18-0-D	Drought - Resistance	CHY	CHY-Drought
+C-21-0-D	Drought - Resistance	CHY	CHY-Drought
+C-23-0-D	Drought - Resistance	CHY	CHY-Drought
+C-26-0-D	Drought - Resistance	CHY	CHY-Drought
+C-29-0-D	Drought - Resistance	CHY	CHY-Drought
+H-3-0-D	Drought - Resistance	HYS	HYS-Drought
+H-6-0-D	Drought - Resistance	HYS	HYS-Drought
+H-7-0-D	Drought - Resistance	HYS	HYS-Drought
+H-10-0-D	Drought - Resistance	HYS	HYS-Drought
+H-15-0-D	Drought - Resistance	HYS	HYS-Drought
+H-17-0-D	Drought - Resistance	HYS	HYS-Drought
+H-20-0-D	Drought - Resistance	HYS	HYS-Drought
+H-22-0-D	Drought - Resistance	HYS	HYS-Drought
+H-26-0-D	Drought - Resistance	HYS	HYS-Drought
+H-29-0-D	Drought - Resistance	HYS	HYS-Drought
+K-3-0-D	Drought - Resistance	KNZ	KNZ-Drought
+K-4-0-D	Drought - Resistance	KNZ	KNZ-Drought
+K-9-0-D	Drought - Resistance	KNZ	KNZ-Drought
+K-12-0-D	Drought - Resistance	KNZ	KNZ-Drought
+K-14-0-D	Drought - Resistance	KNZ	KNZ-Drought
+K-16-0-D	Drought - Resistance	KNZ	KNZ-Drought
+K-19-0-D	Drought - Resistance	KNZ	KNZ-Drought
+K-23-0-D	Drought - Resistance	KNZ	KNZ-Drought
+K-27-0-D	Drought - Resistance	KNZ	KNZ-Drought
+K-30-0-D	Drought - Resistance	KNZ	KNZ-Drought
+S-3-0-D	Drought - Resistance to Second Drought	SGS	SGS-Droughtx2
+S-5-0-D	Drought - Resistance to Second Drought	SGS	SGS-Droughtx2
+S-9-0-D	Drought - Resistance to Second Drought	SGS	SGS-Droughtx2
+S-11-0-D	Drought - Resistance to Second Drought	SGS	SGS-Droughtx2
+S-15-0-D	Drought - Resistance to Second Drought	SGS	SGS-Droughtx2
+S-17-0-D	Drought - Resistance to Second Drought	SGS	SGS-Droughtx2
+S-19-0-D	Drought - Resistance to Second Drought	SGS	SGS-Droughtx2
+S-22-0-D	Drought - Resistance to Second Drought	SGS	SGS-Droughtx2
+S-26-0-D	Drought - Resistance to Second Drought	SGS	SGS-Droughtx2
+S-28-0-D	Drought - Resistance to Second Drought	SGS	SGS-Droughtx2
+C-1-0-D	Drought - Resistance to Second Drought	CHY	CHY-Droughtx2
+C-6-0-D	Drought - Resistance to Second Drought	CHY	CHY-Droughtx2
+C-7-0-D	Drought - Resistance to Second Drought	CHY	CHY-Droughtx2
+C-11-0-D	Drought - Resistance to Second Drought	CHY	CHY-Droughtx2
+C-13-0-D	Drought - Resistance to Second Drought	CHY	CHY-Droughtx2
+C-16-0-D	Drought - Resistance to Second Drought	CHY	CHY-Droughtx2
+C-19-0-D	Drought - Resistance to Second Drought	CHY	CHY-Droughtx2
+C-24-0-D	Drought - Resistance to Second Drought	CHY	CHY-Droughtx2
+C-27-0-D	Drought - Resistance to Second Drought	CHY	CHY-Droughtx2
+C-28-0-D	Drought - Resistance to Second Drought	CHY	CHY-Droughtx2
+H-2-0-D	Drought - Resistance to Second Drought	HYS	HYS-Droughtx2
+H-4-0-D	Drought - Resistance to Second Drought	HYS	HYS-Droughtx2
+H-9-0-D	Drought - Resistance to Second Drought	HYS	HYS-Droughtx2
+H-11-0-D	Drought - Resistance to Second Drought	HYS	HYS-Droughtx2
+H-14-0-D	Drought - Resistance to Second Drought	HYS	HYS-Droughtx2
+H-16-0-D	Drought - Resistance to Second Drought	HYS	HYS-Droughtx2
+H-19-0-D	Drought - Resistance to Second Drought	HYS	HYS-Droughtx2
+H-24-0-D	Drought - Resistance to Second Drought	HYS	HYS-Droughtx2
+H-25-0-D	Drought - Resistance to Second Drought	HYS	HYS-Droughtx2
+H-30-0-D	Drought - Resistance to Second Drought	HYS	HYS-Droughtx2
+K-1-0-D	Drought - Resistance to Second Drought	KNZ	KNZ-Droughtx2
+K-5-0-D	Drought - Resistance to Second Drought	KNZ	KNZ-Droughtx2
+K-8-0-D	Drought - Resistance to Second Drought	KNZ	KNZ-Droughtx2
+K-11-0-D	Drought - Resistance to Second Drought	KNZ	KNZ-Droughtx2
+K-15-0-D	Drought - Resistance to Second Drought	KNZ	KNZ-Droughtx2
+K-18-0-D	Drought - Resistance to Second Drought	KNZ	KNZ-Droughtx2
+K-21-0-D	Drought - Resistance to Second Drought	KNZ	KNZ-Droughtx2
+K-22-0-D	Drought - Resistance to Second Drought	KNZ	KNZ-Droughtx2
+K-25-0-D	Drought - Resistance to Second Drought	KNZ	KNZ-Droughtx2
+K-29-0-D	Drought - Resistance to Second Drought	KNZ	KNZ-Droughtx2
+S-3-1-D	Drought - Second drought recovery 1	SGS	SGS-Droughtx2R1
+S-5-1-D	Drought - Second drought recovery 1	SGS	SGS-Droughtx2R1
+S-9-1-D	Drought - Second drought recovery 1	SGS	SGS-Droughtx2R1
+S-11-1-D	Drought - Second drought recovery 1	SGS	SGS-Droughtx2R1
+S-15-1-D	Drought - Second drought recovery 1	SGS	SGS-Droughtx2R1
+S-17-1-D	Drought - Second drought recovery 1	SGS	SGS-Droughtx2R1
+S-19-1-D	Drought - Second drought recovery 1	SGS	SGS-Droughtx2R1
+S-22-1-D	Drought - Second drought recovery 1	SGS	SGS-Droughtx2R1
+S-26-1-D	Drought - Second drought recovery 1	SGS	SGS-Droughtx2R1
+S-28-1-D	Drought - Second drought recovery 1	SGS	SGS-Droughtx2R1
+C-1-1-D	Drought - Second drought recovery 1	CHY	CHY-Droughtx2R1
+C-6-1-D	Drought - Second drought recovery 1	CHY	CHY-Droughtx2R1
+C-7-1-D	Drought - Second drought recovery 1	CHY	CHY-Droughtx2R1
+C-11-1-D	Drought - Second drought recovery 1	CHY	CHY-Droughtx2R1
+C-13-1-D	Drought - Second drought recovery 1	CHY	CHY-Droughtx2R1
+C-16-1-D	Drought - Second drought recovery 1	CHY	CHY-Droughtx2R1
+C-19-1-D	Drought - Second drought recovery 1	CHY	CHY-Droughtx2R1
+C-24-1-D	Drought - Second drought recovery 1	CHY	CHY-Droughtx2R1
+C-27-1-D	Drought - Second drought recovery 1	CHY	CHY-Droughtx2R1
+C-28-1-D	Drought - Second drought recovery 1	CHY	CHY-Droughtx2R1
+H-2-1-D	Drought - Second drought recovery 1	HYS	HYS-Droughtx2R1
+H-4-1-D	Drought - Second drought recovery 1	HYS	HYS-Droughtx2R1
+H-9-1-D	Drought - Second drought recovery 1	HYS	HYS-Droughtx2R1
+H-11-1-D	Drought - Second drought recovery 1	HYS	HYS-Droughtx2R1
+H-14-1-D	Drought - Second drought recovery 1	HYS	HYS-Droughtx2R1
+H-16-1-D	Drought - Second drought recovery 1	HYS	HYS-Droughtx2R1
+H-19-1-D	Drought - Second drought recovery 1	HYS	HYS-Droughtx2R1
+H-24-1-D	Drought - Second drought recovery 1	HYS	HYS-Droughtx2R1
+H-25-1-D	Drought - Second drought recovery 1	HYS	HYS-Droughtx2R1
+H-30-1-D	Drought - Second drought recovery 1	HYS	HYS-Droughtx2R1
+K-1-1-D	Drought - Second drought recovery 1	KNZ	KNZ-Droughtx2R1
+K-5-1-D	Drought - Second drought recovery 1	KNZ	KNZ-Droughtx2R1
+K-8-1-D	Drought - Second drought recovery 1	KNZ	KNZ-Droughtx2R1
+K-11-1-D	Drought - Second drought recovery 1	KNZ	KNZ-Droughtx2R1
+K-15-1-D	Drought - Second drought recovery 1	KNZ	KNZ-Droughtx2R1
+K-18-1-D	Drought - Second drought recovery 1	KNZ	KNZ-Droughtx2R1
+K-21-1-D	Drought - Second drought recovery 1	KNZ	KNZ-Droughtx2R1
+K-22-1-D	Drought - Second drought recovery 1	KNZ	KNZ-Droughtx2R1
+K-25-1-D	Drought - Second drought recovery 1	KNZ	KNZ-Droughtx2R1
+K-29-1-D	Drought - Second drought recovery 1	KNZ	KNZ-Droughtx2R1
+S-3-2-D	Drought - Second drought recovery 2	SGS	SGS-Droughtx2R2
+S-5-2-D	Drought - Second drought recovery 2	SGS	SGS-Droughtx2R2
+S-9-2-D	Drought - Second drought recovery 2	SGS	SGS-Droughtx2R2
+S-11-2-D	Drought - Second drought recovery 2	SGS	SGS-Droughtx2R2
+S-15-2-D	Drought - Second drought recovery 2	SGS	SGS-Droughtx2R2
+S-17-2-D	Drought - Second drought recovery 2	SGS	SGS-Droughtx2R2
+S-19-2-D	Drought - Second drought recovery 2	SGS	SGS-Droughtx2R2
+S-22-2-D	Drought - Second drought recovery 2	SGS	SGS-Droughtx2R2
+S-26-2-D	Drought - Second drought recovery 2	SGS	SGS-Droughtx2R2
+S-28-2-D	Drought - Second drought recovery 2	SGS	SGS-Droughtx2R2
+C-1-2-D	Drought - Second drought recovery 2	CHY	CHY-Droughtx2R2
+C-6-2-D	Drought - Second drought recovery 2	CHY	CHY-Droughtx2R2
+C-7-2-D	Drought - Second drought recovery 2	CHY	CHY-Droughtx2R2
+C-11-2-D	Drought - Second drought recovery 2	CHY	CHY-Droughtx2R2
+C-13-2-D	Drought - Second drought recovery 2	CHY	CHY-Droughtx2R2
+C-16-2-D	Drought - Second drought recovery 2	CHY	CHY-Droughtx2R2
+C-19-2-D	Drought - Second drought recovery 2	CHY	CHY-Droughtx2R2
+C-24-2-D	Drought - Second drought recovery 2	CHY	CHY-Droughtx2R2
+C-27-2-D	Drought - Second drought recovery 2	CHY	CHY-Droughtx2R2
+C-28-2-D	Drought - Second drought recovery 2	CHY	CHY-Droughtx2R2
+H-2-2-D	Drought - Second drought recovery 2	HYS	HYS-Droughtx2R2
+H-4-2-D	Drought - Second drought recovery 2	HYS	HYS-Droughtx2R2
+H-9-2-D	Drought - Second drought recovery 2	HYS	HYS-Droughtx2R2
+H-11-2-D	Drought - Second drought recovery 2	HYS	HYS-Droughtx2R2
+H-14-2-D	Drought - Second drought recovery 2	HYS	HYS-Droughtx2R2
+H-16-2-D	Drought - Second drought recovery 2	HYS	HYS-Droughtx2R2
+H-19-2-D	Drought - Second drought recovery 2	HYS	HYS-Droughtx2R2
+H-24-2-D	Drought - Second drought recovery 2	HYS	HYS-Droughtx2R2
+H-25-2-D	Drought - Second drought recovery 2	HYS	HYS-Droughtx2R2
+H-30-2-D	Drought - Second drought recovery 2	HYS	HYS-Droughtx2R2
+K-1-2-D	Drought - Second drought recovery 2	KNZ	KNZ-Droughtx2R2
+K-5-2-D	Drought - Second drought recovery 2	KNZ	KNZ-Droughtx2R2
+K-8-2-D	Drought - Second drought recovery 2	KNZ	KNZ-Droughtx2R2
+K-11-2-D	Drought - Second drought recovery 2	KNZ	KNZ-Droughtx2R2
+K-15-2-D	Drought - Second drought recovery 2	KNZ	KNZ-Droughtx2R2
+K-18-2-D	Drought - Second drought recovery 2	KNZ	KNZ-Droughtx2R2
+K-21-2-D	Drought - Second drought recovery 2	KNZ	KNZ-Droughtx2R2
+K-22-2-D	Drought - Second drought recovery 2	KNZ	KNZ-Droughtx2R2
+K-25-2-D	Drought - Second drought recovery 2	KNZ	KNZ-Droughtx2R2
+K-29-2-D	Drought - Second drought recovery 2	KNZ	KNZ-Droughtx2R2
